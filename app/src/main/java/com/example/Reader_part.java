@@ -63,7 +63,6 @@ public class Reader_part extends Activity{
         public void onReceive(Context context, Intent intent) {
 
             String action = intent.getAction();
-            String updateTest = "aml";
 
             if (ACTION_USB_PERMISSION.equals(action)) {
 
