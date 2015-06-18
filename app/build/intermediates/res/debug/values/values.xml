@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/aml/StudioProjects/IISER_demo5_txn_working/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">AtomX_test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ip_address">192.168.0.200</string>
+</resources>
